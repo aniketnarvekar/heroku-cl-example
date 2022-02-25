@@ -1,0 +1,1 @@
+web: lx86cl64 --load load.lisp
